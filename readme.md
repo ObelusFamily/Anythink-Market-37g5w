@@ -10,4 +10,10 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+**[TODO 05/01/2018 @vanessa-cooper]:** 
+
+- Clone the git repo in your local environment
+- Make sure you have docker installed in your local environment
+- Go to your root project directory and run the below command
+- `docker-compose up`
+- Your backend should be live on http://localhost:3000/
